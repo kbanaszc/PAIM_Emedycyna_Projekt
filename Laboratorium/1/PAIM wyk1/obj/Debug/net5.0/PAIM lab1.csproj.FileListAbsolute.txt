@@ -1,0 +1,26 @@
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\PAIM lab1.exe
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\PAIM lab1.deps.json
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\PAIM lab1.runtimeconfig.json
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\PAIM lab1.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\PAIM lab1.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\ref\PAIM lab1.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\PAIM lab1.pdb
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\ClassLibrary.pdb
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\obj\Debug\net5.0\PAIM lab1.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\obj\Debug\net5.0\PAIM lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\obj\Debug\net5.0\PAIM lab1.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\obj\Debug\net5.0\PAIM lab1.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\obj\Debug\net5.0\PAIM lab1.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\obj\Debug\net5.0\PAIM lab1.csproj.CopyComplete
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\obj\Debug\net5.0\PAIM lab1.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\obj\Debug\net5.0\ref\PAIM lab1.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\obj\Debug\net5.0\PAIM lab1.pdb
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\obj\Debug\net5.0\PAIM lab1.genruntimeconfig.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\Dapper.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\PAIM wyk1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

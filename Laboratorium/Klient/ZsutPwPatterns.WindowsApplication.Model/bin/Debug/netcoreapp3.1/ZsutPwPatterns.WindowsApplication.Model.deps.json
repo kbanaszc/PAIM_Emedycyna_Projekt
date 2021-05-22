@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ZsutPwPatterns.WindowsApplication.Model/1.0.0": {
+        "dependencies": {
+          "ZsutPwPatterns.WindowsApplication.Utilities": "1.0.0"
+        },
+        "runtime": {
+          "ZsutPwPatterns.WindowsApplication.Model.dll": {}
+        }
+      },
+      "ZsutPwPatterns.WindowsApplication.Utilities/1.0.0": {
+        "runtime": {
+          "ZsutPwPatterns.WindowsApplication.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZsutPwPatterns.WindowsApplication.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZsutPwPatterns.WindowsApplication.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

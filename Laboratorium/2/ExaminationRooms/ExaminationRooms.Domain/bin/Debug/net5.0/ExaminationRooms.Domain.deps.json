@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExaminationRooms.Domain/1.0.0": {
+        "runtime": {
+          "ExaminationRooms.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExaminationRooms.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

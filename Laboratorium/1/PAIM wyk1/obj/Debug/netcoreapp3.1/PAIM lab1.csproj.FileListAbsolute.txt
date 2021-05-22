@@ -1,0 +1,4 @@
+C:\Users\Kacper\source\repos\PAIM lab1\PAIM wyk1\obj\Debug\netcoreapp3.1\PAIM lab1.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\PAIM lab1\PAIM wyk1\obj\Debug\netcoreapp3.1\PAIM lab1.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\PAIM lab1\PAIM wyk1\obj\Debug\netcoreapp3.1\PAIM lab1.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\PAIM lab1\PAIM wyk1\obj\Debug\netcoreapp3.1\PAIM lab1.csproj.CoreCompileInputs.cache

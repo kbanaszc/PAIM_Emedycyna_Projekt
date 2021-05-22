@@ -1,0 +1,17 @@
+Mikrousługa danych - Wizyty:
+paim2021/paim_proj_visits
+
+Mikrousługa danych - Recepty:
+paim2021/paim_proj_prescriptions
+
+Mikrousługa danych - Pacjenci:
+paim2021/paim_proj_patients
+
+Mikrousługa danych - Lekarze:
+paim2021/paim_proj_doctors
+
+Mikrousługa aplikacji - Pacjent
+paim2021/paim_proj_patient_app
+
+Mikrousługa aplikacji - Lekarz
+paim2021/paim_proj_doctor_app

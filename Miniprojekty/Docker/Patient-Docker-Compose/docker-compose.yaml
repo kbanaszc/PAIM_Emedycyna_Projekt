@@ -1,0 +1,67 @@
+version: "3.9"
+
+networks:
+  int_network:
+
+services:
+  prescriptionsData_webservicerest:
+    image: paim2021/paim_proj_prescriptions:prescriptions_latest
+    ports:
+      - 8081:80
+      - 44301:443
+    networks:
+      - int_network
+    deploy:
+      replicas: 1
+
+  visitsData_webservicerest:
+    image: paim2021/paim_proj_visits:visits_latest
+    ports:
+      - 8082:80
+      - 44302:443
+    networks:
+      - int_network
+    deploy:
+      replicas: 1
+
+  patientsData_webservicerest:
+    image: paim2021/paim_proj_patients:patients_latest
+    ports:
+      - 8083:80
+      - 44303:443
+    networks: 
+      - int_network
+    deploy:
+      replicas: 1
+
+  doctorsData_webservicerest:
+    image: paim2021/paim_proj_doctors:doctors_latest
+    ports:
+      - 8084:80
+      - 44304:443
+    networks: 
+      - int_network
+    deploy:
+      replicas: 1
+
+  patientApp_webservicerest:
+    image: paim2021/paim_proj_patient_app:patient_app_latest
+    environment: 
+      - doctorsServiceGetDoctorById=http://doctorsData_webservicerest/GetDoctorById?doctorId=
+      - visitsServiceGetVisitsPatient=http://visitsData_webservicerest/GetVisitsPatient?patientId=
+      - prescriptionsServiceGetPrescription=http://prescriptionsData_webservicerest/GetPrescription?patientId=
+      - patientsServiceGetPatientByPesel=http://patientsData_webservicerest/GetPatientByPesel?pesel=
+      - doctorsServiceGetDoctorBySpecialization=http://doctorsData_webservicerest/GetDoctorBySpecialization?specialization=
+      - visitsServiceAddVisit=http://visitsData_webservicerest/AddVisit
+    ports:
+      - 8080:80
+      - 44300:443
+    networks:
+      - int_network
+    deploy:
+      replicas: 1
+    depends_on:
+      - prescriptionsData_webservicerest
+      - visitsData_webservicerest
+      - patientsData_webservicerest
+      - doctorsData_webservicerest

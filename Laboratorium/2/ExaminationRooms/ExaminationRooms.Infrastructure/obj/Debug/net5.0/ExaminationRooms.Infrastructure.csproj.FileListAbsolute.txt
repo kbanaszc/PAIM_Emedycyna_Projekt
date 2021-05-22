@@ -1,0 +1,15 @@
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Infrastructure\bin\Debug\net5.0\ExaminationRooms.Infrastructure.deps.json
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Infrastructure\bin\Debug\net5.0\ExaminationRooms.Infrastructure.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Infrastructure\bin\Debug\net5.0\ref\ExaminationRooms.Infrastructure.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Infrastructure\bin\Debug\net5.0\ExaminationRooms.Infrastructure.pdb
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Infrastructure\bin\Debug\net5.0\ExaminationRooms.Domain.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Infrastructure\bin\Debug\net5.0\ExaminationRooms.Domain.pdb
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Infrastructure\obj\Debug\net5.0\ExaminationRooms.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Infrastructure\obj\Debug\net5.0\ExaminationRooms.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Infrastructure\obj\Debug\net5.0\ExaminationRooms.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Infrastructure\obj\Debug\net5.0\ExaminationRooms.Infrastructure.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Infrastructure\obj\Debug\net5.0\ExaminationRooms.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Infrastructure\obj\Debug\net5.0\ExaminationRooms.Infrastructure.csproj.CopyComplete
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Infrastructure\obj\Debug\net5.0\ExaminationRooms.Infrastructure.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Infrastructure\obj\Debug\net5.0\ref\ExaminationRooms.Infrastructure.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Infrastructure\obj\Debug\net5.0\ExaminationRooms.Infrastructure.pdb

@@ -1,0 +1,9 @@
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Utilities\bin\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.deps.json
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Utilities\bin\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Utilities\bin\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.pdb
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Utilities\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Utilities\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Utilities\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Utilities\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Utilities\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Utilities\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.pdb

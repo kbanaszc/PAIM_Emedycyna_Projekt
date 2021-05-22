@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>df95c4c0-7b96-4c55-84ba-957a499ec98b</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExaminationRooms.Domain\ExaminationRooms.Domain.csproj" />
+    <ProjectReference Include="..\ExaminationRooms.Infrastructure\ExaminationRooms.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

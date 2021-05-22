@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ExaminationRooms",
+    "\\ExaminationRoomsSelector",
+    "\\ExaminationRoomsSelector\\ExaminationRoomsSelector.Web",
+    "\\ExaminationRooms\\ExaminationRooms.Infrastructure",
+    "\\ExaminationRooms\\ExaminationRooms.Infrastructure\\Repositories",
+    "\\ExaminationRooms\\ExaminationRooms.Web",
+    "\\ExaminationRooms\\ExaminationRooms.Web\\Controllers"
+  ],
+  "SelectedNode": "\\ExaminationRooms\\ExaminationRooms.Infrastructure\\Repositories\\ExaminationRoomsRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

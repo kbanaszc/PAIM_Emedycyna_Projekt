@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExaminationRoomsSelector.Web", "ExaminationRoomsSelector.Web\ExaminationRoomsSelector.Web.csproj", "{5A4E13ED-B9AC-4220-B3B1-92B5575685AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExaminationRoomsSelector.Test", "ExaminationRoomsSelector.Test\ExaminationRoomsSelector.Test.csproj", "{800B5530-8CD7-4B20-A603-AE1125B412B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A4E13ED-B9AC-4220-B3B1-92B5575685AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4E13ED-B9AC-4220-B3B1-92B5575685AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4E13ED-B9AC-4220-B3B1-92B5575685AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4E13ED-B9AC-4220-B3B1-92B5575685AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800B5530-8CD7-4B20-A603-AE1125B412B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800B5530-8CD7-4B20-A603-AE1125B412B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800B5530-8CD7-4B20-A603-AE1125B412B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800B5530-8CD7-4B20-A603-AE1125B412B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45E7AF88-DB3B-40FB-9585-B7D4A0C44B0D}
+	EndGlobalSection
+EndGlobal

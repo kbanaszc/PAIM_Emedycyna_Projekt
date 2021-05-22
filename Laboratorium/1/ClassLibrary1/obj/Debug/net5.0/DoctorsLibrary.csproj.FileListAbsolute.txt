@@ -1,0 +1,12 @@
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\ClassLibrary1\bin\Debug\net5.0\DoctorsLibrary.deps.json
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\ClassLibrary1\bin\Debug\net5.0\DoctorsLibrary.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\ClassLibrary1\bin\Debug\net5.0\ref\DoctorsLibrary.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\ClassLibrary1\bin\Debug\net5.0\DoctorsLibrary.pdb
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\ClassLibrary1\obj\Debug\net5.0\DoctorsLibrary.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\ClassLibrary1\obj\Debug\net5.0\DoctorsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\ClassLibrary1\obj\Debug\net5.0\DoctorsLibrary.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\ClassLibrary1\obj\Debug\net5.0\DoctorsLibrary.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\ClassLibrary1\obj\Debug\net5.0\DoctorsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\ClassLibrary1\obj\Debug\net5.0\DoctorsLibrary.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\ClassLibrary1\obj\Debug\net5.0\ref\DoctorsLibrary.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\1\ClassLibrary1\obj\Debug\net5.0\DoctorsLibrary.pdb

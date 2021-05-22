@@ -1,0 +1,12 @@
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Model\bin\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Model.deps.json
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Model\bin\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Model.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Model\bin\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Model.pdb
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Model\bin\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Model\bin\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Utilities.pdb
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Model.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Model.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Model.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Model.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Model.csproj.CopyComplete
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Model.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.WindowsApplication.Model.pdb

@@ -1,0 +1,2 @@
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication.Logic\ZsutPwPatterns.WindowsApplication.Logic.csproj;neutral
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\Klient\ZsutPwPatterns.WindowsApplication\ZsutPwPatterns.WindowsApplication.csproj;x86

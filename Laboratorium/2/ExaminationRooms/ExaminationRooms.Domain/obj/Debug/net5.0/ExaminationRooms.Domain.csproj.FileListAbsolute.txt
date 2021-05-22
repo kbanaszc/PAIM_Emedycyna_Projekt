@@ -1,0 +1,12 @@
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Domain\bin\Debug\net5.0\ExaminationRooms.Domain.deps.json
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Domain\bin\Debug\net5.0\ExaminationRooms.Domain.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Domain\bin\Debug\net5.0\ref\ExaminationRooms.Domain.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Domain\bin\Debug\net5.0\ExaminationRooms.Domain.pdb
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ExaminationRooms.Domain.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ExaminationRooms.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ExaminationRooms.Domain.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ExaminationRooms.Domain.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ExaminationRooms.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ExaminationRooms.Domain.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ref\ExaminationRooms.Domain.dll
+C:\Users\Kacper\source\repos\PAIM lab1\Laboratorium\2\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ExaminationRooms.Domain.pdb
